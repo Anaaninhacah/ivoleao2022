@@ -1,0 +1,41 @@
+corpo {
+
+    }
+
+    #banner { _
+        largura :  35 % ;
+        }
+
+        . diretor {
+            fundo :  #CCCCCC ; _
+                preenchimento :  30px ; _
+                }
+
+                h1 {
+                    text-align : center
+                    }
+
+                    p {
+                        text-align : centro;
+                        }
+
+                        # missao {
+                            tamanho da fonte :  30 px
+                            }
+
+                            é  forte {
+                                cor :  rgb ( 253 ,  59 ,  59 );
+                                }
+
+                                . itens {
+                                    estilo da fonte : itálico
+                                    }
+
+                                    . beneficios {
+                                        fundo :  #FFFFFF ; _
+                                        }
+
+                                        h2 {
+                                            text-align : centro;
+                                            }
+}
