@@ -4,16 +4,16 @@ body {
 
 #banner {
     width: 80%;
-    height: 400px;
+    height: 700px;
 }
 
 h1 {
     text-align: center;
     font-size: 35px;
-    color: rgb(255, 0, 0);
+    color: rgb(12, 3, 3);
 }
 
 h2 {
     text-align: center;
-    color: rgb(243, 24, 24);
+    color: rgb(44, 5, 5);
 }
