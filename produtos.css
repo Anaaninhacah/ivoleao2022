@@ -1,9 +1,16 @@
  header {
-    background: #BBBBBB;
+     background: #BBBBBB;
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
 }
 
 nav {
-      position: absolute;
+    position: absolute;
       top: 110px;
       right: 0;
 }     
@@ -17,6 +24,6 @@ nav a {
     text-transform: uppercase;
     color: #000000;
     font-weight: bold;
-    font-weight: bold;
     font-size: 22px;
+    text-decoration: none;
 }
